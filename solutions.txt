@@ -1,0 +1,31 @@
+1 cs thecmdchallenge
+
+2 pwd
+
+3 ls -a
+
+4 ls -R
+
+5 clear
+
+6 find . -type f -name '*.txt'
+    cat ./bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt
+
+7 ls *.js
+
+8 mkdir the-most-funny
+
+9 cp boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/the-mostboring-text.txt boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/lol.txt
+
+10 mv funcode/kids.jpg funcode/images/hello/kids.jpg
+
+11 rm -r smal*
+
+12 cd funcode/the-most-funny
+    cat *
+
+13 rm -r boringfolder/
+
+14 vi kamehameha/dragon-ball-jokes.md 
+
+15  sudo nano kamehameha/dragon-ball-jokes.md 
